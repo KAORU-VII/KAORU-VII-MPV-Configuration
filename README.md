@@ -5,4 +5,4 @@ These configurations are optimized for all AMD system running on Linux.
 
 # Installation
 
-First, unzip, then place the mpv folder into /home/.config/
+First, extract the archive, then place the mpv folder in ~/.config/
